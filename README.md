@@ -1,10 +1,10 @@
 ## YouBlen
-www.mijnliveomgeving.com is een website van (..jouw naam..) waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
-De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
+www.mijnliveomgeving.com is een website van (Blen Michil) waar gebruikers kunnen (Kijken naar mij favorite youtubers) bedoeld voor (15-25)
+De website is enigszins te vergelijken met (youtube) of (..concurrentie2..) maar toch anders omdat (De geschiedenis erbij doe)
 
 ### Uniek aan dit concept is: 
- * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
- * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
+ * eerste u.s.p. (Je kan de geschiedins bekijken van de persoon)
+ * tweede u.s.p. (Kleur)
 
 ---
 #### Milestones 
@@ -30,7 +30,7 @@ Deze fase duurt 3 weken
 | B1-K1-W2 User stories                             | DONE | [User Stories]                       | Markdown of Word/RTF|
 | B1-K1-W2 Functioneel ontwerp                      | DONE | [FO]                                 | Markdown of Word/RTF|
 | B1-K1-W2 Flowchart                                | DONE | [Flow]                               | Afbeelding(en) of geexporteerd uit http://draw.io |
-| B1-K1-W2 Urenschatting                            | TODO | [Urenschatting]                      | Markdown |
+| B1-K1-W2 Urenschatting                            | DONE | [Urenschatting]                      | Markdown |
 | B1-K1-W2 Wireframes en/of Interactief prototype   | DONE | [axShare]                            | Axshare link of link naar ander online prototype tool |
 | B1-K1-W2 Sfeer impressie / schermontwerpen        | TODO | [Design]                             | Afbeeldingen |
 
@@ -50,7 +50,7 @@ Deze fase duurt 3 weken
 
 | Milestone  | Status | Link |
 | ------ |  ------ | ------ |
-| B1-K1-W2 Product backlog                          | TODO | [Backlog]                            | Link naar Trello met Sprint planningen | |
+| B1-K1-W2 Product backlog                          | DONE | [Backlog]                            | Link naar Trello met Sprint planningen | |
 | B1-K1-W2 Sprint planning 1, 2 en 3                | TODO | [Trello] / [Trello Tips]             | Link naar Trello met Sprint planningen | |
 | B1-K1-W3 Technisch Ontwerp                        | TODO | [TO]                                 | Markdown of Word/RTF| |
 
