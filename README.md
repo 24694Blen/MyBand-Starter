@@ -1,5 +1,5 @@
 ## YouBlen
-www.mijnliveomgeving.com is een website van (Blen Michil) waar gebruikers kunnen (Kijken naar mij favorite youtubers) bedoeld voor (15-25)
+http://24694.hosts2.ma-cloud.nl/bewijzenmap/periode%201.4/proj/MyBand-Starter/public/index.php?page=homepage is een website van (Blen Michil) waar gebruikers kunnen (Kijken naar mij favorite youtubers) bedoeld voor (15-25)
 De website is enigszins te vergelijken met (youtube) of (..concurrentie2..) maar toch anders omdat (De geschiedenis erbij doe)
 
 ### Uniek aan dit concept is: 
@@ -63,7 +63,7 @@ Deze fase duurt 3 weken
 
 | Milestone  | Status | Link |
 | ------ |  ------ | ------ |
-| B1-K3-W2 Link naar de live omgeving                        |  TODO |  <https://mijnliveomgeving.com> |
+| B1-K3-W2 Link naar de live omgeving                        |  TODO |  http://24694.hosts2.ma-cloud.nl/bewijzenmap/periode%201.4/proj/MyBand-Starter/public/index.php?page=homepage |
 | B1-K3-W2 Gebruikersdocumentatie / instructie               |  TODO |  [Gebruikers documentatie] |
 | B1-K3-W3 Evaluatie                                         |  TODO |  [Evaluatie] |
 
